@@ -1,2 +1,3 @@
 # hello-world
 This is Suzana, trying to master a new way of life...
+incase you are wondering, i a, trying to commit.. lol..
